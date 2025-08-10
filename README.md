@@ -1,2 +1,3 @@
 # Python
 A code repo of python 
+This is the codes i write while i was learning python...
