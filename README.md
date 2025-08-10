@@ -1,3 +1,4 @@
 # Python
-A code repo of python 
-This is the codes i write while i was learning python...
+A code repo of python
+<br>
+This is the code. I write while i was learning python...
